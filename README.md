@@ -16,7 +16,7 @@ A simple, mobile-responsive Tic-Tac-Toe game built with HTML, CSS, and JavaScrip
 
 ## Demo
 
-You can play the game live [here](https://tictactoebylohith.tiiny.site/) (replace with your demo link if available).
+You can play the game live [here](https://tictactoebylohith.tiiny.site/) 
 
 ## Features
 
