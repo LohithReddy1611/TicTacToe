@@ -1,4 +1,5 @@
 
+
 # Tic-Tac-Toe Game
 
 A simple, mobile-responsive Tic-Tac-Toe game built with HTML, CSS, and JavaScript.
@@ -15,7 +16,7 @@ A simple, mobile-responsive Tic-Tac-Toe game built with HTML, CSS, and JavaScrip
 
 ## Demo
 
-You can play the game live [here](https://your-demo-link.com) (replace with your demo link if available).
+You can play the game live [here](https://tictactoebylohith.tiiny.site/) (replace with your demo link if available).
 
 ## Features
 
@@ -28,7 +29,7 @@ You can play the game live [here](https://your-demo-link.com) (replace with your
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/tic-tac-toe.git
+    git clone https://github.com/lohithreddy1611/TicTacToe.git
     ```
 
 2. Navigate to the project directory:
